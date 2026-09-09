@@ -129,10 +129,14 @@ The source code is available on <a href="https://github.com/rtCamp/publishio">Gi
 
 == Screenshots ==
 
-1. The Publishio Guide page in the WordPress dashboard — lists available AI setup guides.
-2. The Claude AI setup guide showing how to add a custom MCP connector in Claude's Customize > Connectors panel.
-3. The WordPress OAuth authorization screen, where Claude requests access to your site via the Publishio MCP server.
-4. The Connections page listing all AI apps that have authenticated with your site, with user, registration date, and last-active details.
+1. The chat prompt in ChatGPT or Claude, where you describe the page or post you want in plain language.
+2. The AI's plan in the chat — a section-by-section outline of the page, with each section mapped to one of your site's own block patterns.
+3. The in-chat preview of a generated section, shown for review with insert and show-alternative controls before anything is added to the draft.
+4. The finished page on your site, assembled from your patterns and styled by your active theme.
+5. The Publishio Guide page in the WordPress dashboard — lists available AI setup guides.
+6. The Claude AI setup guide showing how to add a custom MCP connector in Claude's Customize > Connectors panel.
+7. The WordPress OAuth authorization screen, where Claude requests access to your site via the Publishio MCP server.
+8. The Connections page listing all AI apps that have authenticated with your site, with user, registration date, and last-active details.
 
 == Changelog ==
 
